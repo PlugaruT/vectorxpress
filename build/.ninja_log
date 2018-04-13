@@ -1,9 +1,0 @@
-# ninja log v5
-1	447	1523652296	data/com.github.plugarut.vectorxpress.desktop	abda1e1aff24a0e9
-0	599	1523652296	com.github.plugarut.vectorxpress@exe/src/Application.c	59c43ec17fda3a64
-0	599	1523652296	com.github.plugarut.vectorxpress@exe/src/MainWindow.c	59c43ec17fda3a64
-4	434	1523652357	data/com.github.plugarut.vectorxpress.appdata.xml	29b453fd7fc1ed65
-2	484	1523652357	com.github.plugarut.vectorxpress@exe/meson-generated_src_MainWindow.c.o	3ecf24c43507c5b6
-0	494	1523652357	com.github.plugarut.vectorxpress@exe/meson-generated_src_Application.c.o	a5676b196d4e7aaa
-494	709	1523652357	com.github.plugarut.vectorxpress	8e2fee32eafa117f
-6	668	0	meson-install	424c3daf6ee1eae0
