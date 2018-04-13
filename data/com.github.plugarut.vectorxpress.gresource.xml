@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/plugarut/vectorxpress">
+    <file alias="com.github.plugarut.vectorxpress.svg">icons/128/com.github.plugarut.vectorxpress.svg</file>
+  </gresource>
+</gresources>

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Vectorxpress
+GenericName=Vectorxpress
+Comment=Application for interacting with vector.express API
+Categories=Utility;
+Exec=com.github.plugarut.vectorxpress
+Icon=com.github.plugarut.vectorxpress
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=com.github.plugarut.vectorxpress
+Keywords=Internet;Files;PDF;
